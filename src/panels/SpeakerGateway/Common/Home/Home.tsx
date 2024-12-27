@@ -66,7 +66,7 @@ const GateWay = (props) => {
       '',
     ],
     [
-      'PLC本地组网',
+      '网关重启',
       'broadcast',
       () => {
         
